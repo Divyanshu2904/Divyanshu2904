@@ -5,20 +5,21 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&lines=🎓+Final+Year+B.Tech+%7C+CSE+Student;🤖+AI+%26+Machine+Learning+Enthusiast;🔐+Cybersecurity+%26+Threat+Detection;💻+Full+Stack+Web+Developer;🌾+AgriTech+%26+Computer+Vision+Builder;🚀+Turning+Ideas+into+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&lines=🎓+Final+Year+B.Tech+%7C+CSE+Student;🤖+AI+%26+Machine+Learning+Engineer;🔐+Cybersecurity+%26+Ethical+Hacking;💻+Full+Stack+Web+Developer;🌾+AgriTech+%26+Computer+Vision;📸+Face+Recognition+%26+AI+Systems" alt="Typing SVG" />
 </a>
+
 <br/><br/>
- 
+
 <!-- Status Badges -->
 <img src="https://komarev.com/ghpvc/?username=Divyanshu2904&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cybersecurity-7c3aed?style=for-the-badge&logo=target&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" />
-<br/><br/>
- 
-</div>
 
+<br/><br/>
+
+</div>
 
 ---
 
@@ -44,7 +45,7 @@ class Divyanshu:
         "DB/Cloud"  : ["MySQL", "Firebase", "Oracle", "Vercel", "Netlify"]
     }
 
-    fun_fact    = "I turn caffeine ☕ into code that solves real-world problems 🚀"
+    fun_fact    = "Winner of RoboWar & Racing at SIT TechFest 2024 🏆"
 ```
 
 ---
@@ -224,40 +225,37 @@ class Divyanshu:
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Achievements
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Technical Certifications
+### 📜 Certifications
 
-| Certificate | Issuer | Year |
-|-------------|--------|------|
-| 🐍 Python for Everybody | Coursera / University of Michigan | 2023 |
-| 🤖 Machine Learning Specialization | Coursera / Andrew Ng | 2023 |
-| 🔐 Cybersecurity Fundamentals | IBM / Coursera | 2023 |
-| 🌐 Full Stack Web Development | Udemy | 2022 |
-| 📊 Data Science & Analytics | Google / Coursera | 2024 |
+| Badge | Certificate | Issuer |
+|-------|-------------|--------|
+| 🔐 | Google Cybersecurity Certificate | Coursera |
+| 🛰️ | Geo-data Sharing & Cyber Security | ISRO — IIRS Dehradun |
+| 🌐 | Introduction to Cybersecurity & Ethical Hacking | Cisco |
+| 🕶️ | Dark Web & SQL Injection Attacks | EC-Council |
+| ⚛️ | Quantum Computing | C-DAC Hyderabad × IIT Roorkee |
+| 🐍 | Programming in Python | GUVI |
 
 </td>
 <td width="50%" valign="top">
 
-### 🏆 Achievements & Recognition
+### 🏆 Achievements
 
-| Achievement | Details |
-|-------------|---------|
-| 🥇 Hackathon Participant | Multiple college & national-level hackathons |
-| 🌟 Open Source Contributor | Active GitHub contributor |
-| 📝 Research Interest | AI in Cybersecurity & AgriTech |
-| 🎯 NPTEL / SWAYAM | Online certification courses |
-| 💡 Project Showcase | Presented AI projects at college level |
+| Badge | Achievement |
+|-------|-------------|
+| 🥇 | **Winner** — RoboWar & Racing, SIT TechFest 2024 |
+| 💻 | **ByteVerse 7.0 Hackathon** — NIT Patna *(Team Bitwiser)* |
+| 📄 | **Letter of Recommendation** — eDC, IIT Delhi |
 
 </td>
 </tr>
 </table>
-
-> 📌 **Note:** Update certificate names & links with your actual credentials for maximum impact!
 
 ---
 
