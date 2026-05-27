@@ -283,14 +283,7 @@ class Divyanshu:
 
 ---
 
-## 📈 Contribution Graph & Snake Animation
-
-<div align="center">
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu2904&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=c4b5fd&area=true&hide_border=true&area_color=2d1b6e&custom_title=Divyanshu's%20Contribution%20Graph" />
-
-<br/><br/>
+## 📈 Contribution Graph
 
 <!-- Snake Animation - Light Mode -->
 <picture>
