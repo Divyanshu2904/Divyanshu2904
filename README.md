@@ -290,19 +290,39 @@ class Divyanshu:
 
 <div align="center">
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu2904&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=c4b5fd&area=true&hide_border=true&area_color=2d1b6e&custom_title=Divyanshu's%20Contribution%20Graph" />
+name: Generate Snake Animation
 
-<br/><br/>
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # Runs every 12 hours
+  workflow_dispatch:           # Manual trigger
+  push:
+    branches:
+      - main
 
-<!-- Snake Animation - Light Mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyanshu2904/Divyanshu2904/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyanshu2904/Divyanshu2904/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Divyanshu2904/Divyanshu2904/output/github-snake.svg" />
-</picture>
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
 
-</div>
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Divyanshu2904
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
