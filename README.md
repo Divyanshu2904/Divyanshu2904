@@ -7,19 +7,18 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&lines=🎓+Final+Year+B.Tech+%7C+CSE+Student;🤖+AI+%26+Machine+Learning+Enthusiast;🔐+Cybersecurity+%26+Threat+Detection;💻+Full+Stack+Web+Developer;🌾+AgriTech+%26+Computer+Vision+Builder;🚀+Turning+Ideas+into+Real-World+Solutions" alt="Typing SVG" />
 </a>
-
 <br/><br/>
-
+ 
 <!-- Status Badges -->
 <img src="https://komarev.com/ghpvc/?username=Divyanshu2904&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cybersecurity-7c3aed?style=for-the-badge&logo=target&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
 <br/><br/>
-
+ 
 </div>
+
 
 ---
 
