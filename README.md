@@ -100,7 +100,7 @@ class Divyanshu:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=mysql&logoColor=white))
 
 ✅ Multi-parameter input (pH, humidity, rainfall, temp)  
 ✅ 97%+ prediction accuracy  
