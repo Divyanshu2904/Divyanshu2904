@@ -170,7 +170,7 @@ class Divyanshu:
 ✅ Admin dashboard + export reports  
 
 <div align="center">
-  <a href="https://github.com/Divyanshu2904/Face-Recognition-Attendance">
+  <a href="https://github.com/Divyanshu2904/Face_recognition_based_attendance_system.git">
     <img src="https://img.shields.io/badge/🔗 View Repo-ec4899?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
