@@ -78,7 +78,7 @@ class Divyanshu:
 ✅ High precision, low false positives  
 
 <div align="center">
-  <a href="https://github.com/Divyanshu2904/AI-Phishing-Detection">
+  <a href="https://github.com/Divyanshu2904/Phishing-Detector-Extension.git">
     <img src="https://img.shields.io/badge/🔗 View Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
